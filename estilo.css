@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: blue;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.header{
+    background-color: #000;
+    color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.logo img{
+    width: 90px;
+}
+
+.menu{
+    height: inherit;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+
+.header li{
+    height: inherit;
+}
+
+.header a{
+    color: blue;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+
+.principal{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    height: 500px;
+    padding: 0px;
+}
+
+,principal p{
+    
+}
+
+.principal h1{
+    color: #000;
+}
+
+.principal h2{
+    color: blue;
+    padding: 10px;
+}
+
+.principal img{
+    padding-top: 25px;
+}
+
+.section2 img{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+
+
+.section2{
+    background-color: coral;
+    color: black;
+    text-align: center;
+}
+
+.section2 h2{
+    color: blue;
+    padding: 10px;
+}
+
+.section3{
+    background-color: chocolate;
+    color: black;
+    text-align: center;
+    padding: 0px 30px;
+}
+
+.section3 h2{
+    color: blue;
+    padding: 10px;
+}
+
+
+
+
+
